@@ -1,0 +1,13 @@
+.idea/
+.vertx/
+*.class
+*.log
+*.iml
+.project
+.classpath
+.settings
+.vscode
+dump.rdb
+target/
+create-vm.sh
+remove-vm.sh
