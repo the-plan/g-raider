@@ -11,3 +11,4 @@ dump.rdb
 target/
 create-vm.sh
 remove-vm.sh
+.DS_Store
